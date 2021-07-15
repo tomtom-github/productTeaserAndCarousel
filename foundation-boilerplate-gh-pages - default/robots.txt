@@ -1,4 +1,0 @@
-User-Agent: *
-Allow: /
-
-Sitemap: http://flexbox.github.io/foundation-boilerplate/sitemap.xml

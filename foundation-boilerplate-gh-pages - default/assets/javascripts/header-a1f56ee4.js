@@ -1,1 +1,0 @@
-(function(){var n;n=function(){var n;return n=$("#js-menu--button"),n.click(function(n){return $(".js-header--list").toggleClass("is-on-viewport","is-away")})},$(function(){return n()})}).call(this);
